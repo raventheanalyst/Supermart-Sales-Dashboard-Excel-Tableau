@@ -4,16 +4,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<!-- HTML Codes by Quackit.com -->
-<title>
-</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-body {background-color:#ffffff;background-repeat:no-repeat;background-position:top left;background-attachment:fixed;}
-h1{font-family:Arial, sans-serif;color:#000000;background-color:#ffffff;}
-p {font-family:Georgia, serif;font-size:14px;font-style:normal;font-weight:normal;color:#000000;background-color:#ffffff;}
-</style>
-</head>
 <body>
 <h1>Data Used</h1>
 <p>Data - Dataset via Kaggle with 10,000 rows for an Indian Supermart Store from 2015-2018</p>
@@ -25,15 +15,6 @@ p {font-family:Georgia, serif;font-size:14px;font-style:normal;font-weight:norma
 <!DOCTYPE html>
 <html>
 <head>
-<!-- HTML Codes by Quackit.com -->
-<title>
-</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-body {background-color:#ffffff;background-repeat:no-repeat;background-position:top left;background-attachment:fixed;}
-h1{font-family:Arial, sans-serif;color:#000000;background-color:#ffffff;}
-p {font-family:Georgia, serif;font-size:14px;font-style:normal;font-weight:normal;color:#000000;background-color:#ffffff;}
-</style>
 </head>
 <body>
 <h1>Summary of Findings</h1>
@@ -50,15 +31,6 @@ p {font-family:Georgia, serif;font-size:14px;font-style:normal;font-weight:norma
 <!DOCTYPE html>
 <html>
 <head>
-<!-- HTML Codes by Quackit.com -->
-<title>
-</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-body {background-color:#ffffff;background-repeat:no-repeat;background-position:top left;background-attachment:fixed;}
-h1{font-family:Arial, sans-serif;color:#000000;background-color:#ffffff;}
-p {font-family:Georgia, serif;font-size:14px;font-style:normal;font-weight:normal;color:#000000;background-color:#ffffff;}
-</style>
 </head>
 <body>
 <h1>Recommendations</h1>
