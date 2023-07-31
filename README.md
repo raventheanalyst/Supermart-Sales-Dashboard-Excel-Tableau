@@ -38,7 +38,7 @@
 <p>• For Q1’s consistent low sales, focus on products that sell well during this quarter and introduce promotions to boost sales.</p>
 <p>• For South Regions lower sales, tailor products and marketing to better suit the local demographic’s preferences and needs. Allocate more marketing, promotions, special offers, and discount to attract more foot traffic for this region</p>
 <p>• Correct product placement with the Eggs, Meat, and Fish category to ensure that it receives prominence in the store. It should attract attention and make it easier to find resulting in even higher sales. </p>
-<p>• Due to the Oil & Masala category having the lowest sales, promote this category more effectively. Eye-catching signage. Offer a cross promotion with the highest selling category, Eggs, Meat, & Fish. Encourage customers who buy in the Eggs, Meat, and Fish category to explore the Oil & Masala category. </p>
+<p>• Due to the Oil & Masala category having the lowest sales, promote this category more effectively. Eye-catching signage. Offer a cross promotion with the highest selling category, Eggs, Meat, & Fish. Encourage customers who buy in the Eggs, Meat, and Fish category to explore the Oil & Masala category </p>
 <p></p>
 <p></p>
 </body>
